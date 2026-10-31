@@ -1,0 +1,4 @@
+interface:
+  display_name: "抖音身份一致封面"
+  short_description: "用一张本人照片生成多角度、多动作且身份一致的抖音封面"
+  default_prompt: "使用我的人物照片和选题，生成身份一致、动作自然、适配3:4裁切的抖音封面。"
